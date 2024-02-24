@@ -1,1 +1,3 @@
-# .github
+# SOLARMA/.github
+
+<!-- EOF -->
